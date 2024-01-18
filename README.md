@@ -87,7 +87,7 @@ To use this application, follow these steps:
 
 ```bash
 git clone https://github.com/kashinathjadhav/Dynamic_Form_Generator.git
-cd dynamic-form-react
+cd Dynamic_Form_Generator
 npm install
 npm start
 ```
